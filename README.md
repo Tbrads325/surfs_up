@@ -8,9 +8,9 @@ queries were performed to find the summary statistics of the history of the temp
 ## Results
 
 ### June Temp Summary Statistics
-![June_Temp]()
+![June_Temp](https://github.com/Tbrads325/surfs_up/blob/main/images/June_Temp.png)
 ### Decemeber Temp Summary Statistics
-![Dec_Temp]()
+![Dec_Temp](https://github.com/Tbrads325/surfs_up/blob/main/images/Dec_Temp.png)
 
 - The first noticable statistic is the mean temperature for each month. June has a mean temperature of 74.944118 while
 December has a mean temerature of 71.041529 both of which are not too far apart. Thus, this depicts the temperature as relatively
@@ -28,8 +28,8 @@ It would also be useful to see the precipitation summary statistics for the mont
 information and the summary statistics would be helpful. 
 
 ### June Precipitation Summary Statistics
-![June_Prec]()
+![June_Prec](https://github.com/Tbrads325/surfs_up/blob/main/images/June_Prec.png)
 ### December Precipitation Summary Statistics
-![Dec_Prec]()
+![Dec_Prec](https://github.com/Tbrads325/surfs_up/blob/main/images/Dec_Prec.png)
 
 These tables show that we can expect the precipitation levels/amounts to be higher in the month of December in comparison to June. 
